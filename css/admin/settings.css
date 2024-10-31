@@ -1,0 +1,25 @@
+.swl-settings-page #advanced-sortables {
+    display: inline-block;
+    min-width: 255px;
+    margin-right:10px;
+    vertical-align:top;
+    cursor:auto;
+}
+
+.swl-settings-page .postbox input[type="text"], .swl-settings-page .postbox select {
+    width:100%;
+}
+
+.swl-settings-page input[type="submit"] {
+    display:block;
+}
+
+
+.swl-settings-page .handlediv {
+    display:none;
+}
+
+.swl-settings-page h3 {
+    line-height:1.4;
+    padding:8px 12px;
+}

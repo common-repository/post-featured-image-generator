@@ -1,0 +1,27 @@
+.swl-page .postbox .hndle {
+    padding:7px 10px;
+    margin:0px;
+}
+
+.swl-page .postbox .hndle {
+    cursor:auto;
+}
+
+.swl-page .postbox .hndle h3 {
+    font-size:15px;
+}
+
+.swl-page .postbox .handlediv {
+    display:none;
+}
+
+.swl-page .left-section {
+    display: table-cell;
+    width:100%;
+}
+
+.swl-page .right-section {
+    display: table-cell;
+    padding-left:20px;
+    min-width:300px;
+}

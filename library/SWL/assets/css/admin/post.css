@@ -1,0 +1,24 @@
+/*#swl_meta_box .hndle, #swl_meta_box .handlediv {
+    display:none;
+}
+
+#swl_meta_box {
+    background: none;
+    border:none;
+    padding-top: 5px;
+}*/
+
+#swl_meta_box label {
+    display:block;
+    font-size:1.4em;
+    margin: 6px 0px 2px 0px;
+}
+
+/*#swl_meta_box .inside {
+    padding:0px;
+    margin:0px;
+}*/
+
+#swl_meta_box input[type="text"], #swl_meta_box textarea {
+    min-width:400px;
+}

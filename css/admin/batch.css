@@ -1,0 +1,26 @@
+.fig-batch {
+    padding-top:20px;
+}
+
+#fig-batch-progressbar {
+    width:500px;
+    position:relative;
+    display:inline-block;
+}
+
+#fig-batch-progressbar .label {
+    position: absolute;
+    left: 50%;
+    top: 4px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+}
+
+.fig-batch .rules {
+    padding-top:10px;
+}
+
+#batch-stop {
+    vertical-align: top;
+    display:none;
+}
